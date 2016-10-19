@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomButtonDemo</string>
+    <string name="chat">信息</string>
+    <string name="discover">发现</string>
+    <string name="contract">通讯录</string>
+    <string name="me">我</string>
+</resources>
